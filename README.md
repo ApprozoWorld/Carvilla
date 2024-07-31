@@ -1,7 +1,7 @@
 # Carvilla
 a car rental website
 Get ready to shift your gear! 🚗💨 <br>
-Welcome to [Your Repository Name], your one-stop shop for all things car rental! 🚗<br>
+Welcome to CarVilla, your one-stop shop for all things car rental! 🚗<br>
 Browse our fleet of cars 🚗<br>
 Check availability and prices 📊<br>
 Book your dream ride 🛫️<br>
